@@ -62,11 +62,10 @@ sportify-companion/
 - Possibilité de créer des exercices personnalisés
 
 ### Planning d'entraînement
-- Calendrier interactif pour la planification des séances
-- Création et personnalisation de programmes d'entraînement
+- Calendrier interactif pour la visualisation des séances
 
 ### Suivi de progression
-- Visualisation de=l'évolution de sa forme physique
+- Visualisation de l'évolution de sa forme physique
 
 ### Paramètres
 - Personnalisation de l'interface avec le thème sombre ou clair
